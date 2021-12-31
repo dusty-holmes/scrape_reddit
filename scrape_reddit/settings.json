@@ -1,0 +1,34 @@
+{
+    "env_fields" : [
+        "client_id",
+        "client_secret", 
+        "password", 
+        "user_agent",
+        "username"
+    ],
+    "submission_fields" : [
+        "title", 
+        "score", 
+        "id", 
+        "name", 
+        "num_comments", 
+        "url",
+        "permalink",
+        "created_utc",
+        "is_original_content"
+    ],
+    "time_choices" : [
+        "all",
+        "day",
+        "hour",
+        "month",
+        "week",
+        "year"
+    ],
+    "search_choices" : [
+        "hot",
+        "rising",
+        "new",
+        "controversial"
+    ]
+}
